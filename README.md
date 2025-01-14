@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - I use neovim btw (check out my [config](https://github.com/Kristina-Pianykh/neovim-config))
 - I'm a Primeagen fan btw
 - I've started a small [(b)log](https://kristina-pianykh.github.io/blog/) were I post my humble thoughts on programming-related topics
-- I'm currently working on a neovim [plugin](https://github.com/Kristina-Pianykh/nvim-databricks) for executing Python code on a remote Databricks cluster
+- I'm currently working on a [shell in Go](https://github.com/Kristina-Pianykh/go-shell) because why not
 - I like to keep my envrionment clean so I use home-manager to define it [declaratively in Nix](https://github.com/Kristina-Pianykh/home-manager)
 - I'm a sucker for "low-level" things, be that CPU caching, OS scheduling, compiler design or encryption algorithms. The things I particularly enjoyed working on: [CPU emulation](https://github.com/Kristina-Pianykh/RISC-V-emulator), [bootloader](https://github.com/Kristina-Pianykh/bootloader), [Deffie-Hellman Key Exchange](https://github.com/Kristina-Pianykh/dh-hash-collisions-rs)
 - Professionally, I have a broad experience with cloud infrastructure, containerization and deployments (see a [toy AWS project](https://github.com/Kristina-Pianykh/terraform-aws-test-infrastructure) for a BE request service and a simple [deployment infrastructure](https://github.com/Kristina-Pianykh/streamlit-azure-demo) for a Streamlit app on Azure)
